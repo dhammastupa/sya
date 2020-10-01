@@ -1,0 +1,61 @@
+/*
+===============================================================================================================================
+Put your custom CSS in this file.
+===============================================================================================================================
+*/
+
+/* Thasadith regular */
+
+@font-face {
+  font-family: "Thasadith";
+  src: url('fonts/Thasadith-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Thasadith italic */
+
+@font-face {
+  font-family: "Thasadith";
+  src: url('fonts/Thasadith-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* Thasadith bold */
+
+@font-face {
+  font-family: "Thasadith";
+  src: url('fonts/Thasadith-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Thasadith bold italic */
+
+@font-face {
+  font-family: "Thasadith";
+  src: url('fonts/Thasadith-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+body
+{
+    font-family: "Thasadith";
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1, h2, h3, h4, h4, h6 {
+    font-family: "Thasadith";
+    font-weight: 700;
+    font-style: normal;
+}
+
+a
+{
+    font-family: "Thasadith";
+    font-weight: 400;
+    font-style: normal;
+}
